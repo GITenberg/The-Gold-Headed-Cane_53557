@@ -1,5 +1,5 @@
 _repo: The-Gold-Headed-Cane_53557
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introductions:
   - agent_name: Packard, Francis R. (Francis Randolph)
@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '660'
     url: http://www.gutenberg.org/2009/agents/660
     wikipedia: http://en.wikipedia.org/wiki/William_Osler
+covers:
+- cover_type: archival
+  image_path: 53557-h/images/cover.jpg
 creator:
   author:
     agent_name: Macmichael, William
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '47434'
     url: http://www.gutenberg.org/2009/agents/47434
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53557#The-Gold-Headed-Cane
 gutenberg_issued: '2016-11-19'
 gutenberg_type: Text
 identifiers:
