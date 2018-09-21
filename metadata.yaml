@@ -1,0 +1,42 @@
+_repo: The-Gold-Headed-Cane_53557
+_version: 0.0.1
+contributor:
+  author_of_introductions:
+  - agent_name: Packard, Francis R. (Francis Randolph)
+    birthdate: 1870
+    deathdate: 1950
+    gutenberg_agent_id: '47403'
+    url: http://www.gutenberg.org/2009/agents/47403
+  - agent_name: Osler, William
+    birthdate: 1849
+    deathdate: 1919
+    gutenberg_agent_id: '660'
+    url: http://www.gutenberg.org/2009/agents/660
+    wikipedia: http://en.wikipedia.org/wiki/William_Osler
+creator:
+  author:
+    agent_name: Macmichael, William
+    birthdate: 1783
+    deathdate: 1839
+    gutenberg_agent_id: '47434'
+    url: http://www.gutenberg.org/2009/agents/47434
+description: ''
+gutenberg_issued: '2016-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53557'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mead, Richard, 1673-1754'
+- !lcsh 'Baillie, Matthew, 1761-1823'
+- !lcsh 'Radcliffe, John, 1650-1714'
+- !lcsh 'Pitcairn, David, 1749-1809'
+- !lcc 'R'
+- !lcsh 'Physicians -- England -- Biography'
+- !lcsh 'Askew, Anthony, 1722-1774'
+- GITenberg
+title: The Gold-Headed Cane
+url: http://www.gutenberg.org/ebooks/53557
